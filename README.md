@@ -1,5 +1,8 @@
-ez-media-platform/
+EZ-MEDIA
+│
 ├── package.json
 ├── server.js
-└── public/
+├── README.md
+│
+└── public
     └── index.html
